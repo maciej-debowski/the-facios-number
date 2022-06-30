@@ -1,11 +1,13 @@
 # Facio's number
-This is my own 'big' number invented by me.
-I wrote algorithm in 12 languages. I'm gonna write also in masm (Assembly).
-If there's 1 human on earth who could calculate f(f(f(f(f(64))))), respect. (Impossible)
+This is my own 'big' number invented by me. \ 
+I wrote algorithm in 12 languages. I'm gonna write also in masm (Assembly). \
+If there's 1 human on earth who could calculate f(f(f(f(f(64))))), respect. (Impossible) 
 
-Algorithm:
-[In JavaScript]: const f = (x) => x > 0 ? x ** f(x-1) : x
-[In Math]: f(x) = [(x > 0 → x ** f(x - 1)) ^ ~(x > 0) → x]
+Algorithm: \ 
+[In JavaScript]: const f = (x) => x > 0 ? x ** f(x-1) : x \
+[In Math]: f(x) = [(x > 0 → x ** f(x - 1)) ^ ~(x > 0) → x] 
+
+f(f(f(f(f(64))))) = The Facio's number \
 
 Numbers:
 f(1) = 1
