@@ -1,0 +1,13 @@
+F:\faciosnumber\cs\obj\Debug\netcoreapp3.1\cs.csprojAssemblyReference.cache
+F:\faciosnumber\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfoInputs.cache
+F:\faciosnumber\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfo.cs
+F:\faciosnumber\cs\obj\Debug\netcoreapp3.1\cs.csproj.CoreCompileInputs.cache
+F:\faciosnumber\cs\bin\Debug\netcoreapp3.1\cs.exe
+F:\faciosnumber\cs\bin\Debug\netcoreapp3.1\cs.deps.json
+F:\faciosnumber\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.json
+F:\faciosnumber\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.dev.json
+F:\faciosnumber\cs\bin\Debug\netcoreapp3.1\cs.dll
+F:\faciosnumber\cs\bin\Debug\netcoreapp3.1\cs.pdb
+F:\faciosnumber\cs\obj\Debug\netcoreapp3.1\cs.dll
+F:\faciosnumber\cs\obj\Debug\netcoreapp3.1\cs.pdb
+F:\faciosnumber\cs\obj\Debug\netcoreapp3.1\cs.genruntimeconfig.cache
